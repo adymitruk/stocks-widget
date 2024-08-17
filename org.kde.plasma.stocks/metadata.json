@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "adam@eventsourcing.com",
+                "Name": "Adam Dymitruk"
+            }
+        ],
+        "Category": "Finance",
+        "Description": "Shows the current prices of stocks",
+        "Icon": "office-chart-line",
+        "Id": "org.kde.plasma.stocks",
+        "Name": "Stocks",
+        "Version": "1.0",
+        "Website": "https://github.com/adymitruk/stocks-widget"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
