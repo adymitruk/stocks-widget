@@ -11,9 +11,10 @@
         "Icon": "office-chart-line",
         "Id": "org.kde.plasma.stocks",
         "Name": "Stocks",
-        "Version": "1.0",
+        "Version": "1",
         "Website": "https://github.com/adymitruk/stocks-widget"
     },
     "X-Plasma-API": "declarativeappletscript",
-    "X-Plasma-MainScript": "ui/main.qml"
+    "KPackageStructure": "Plasma/Applet"
+
 }
