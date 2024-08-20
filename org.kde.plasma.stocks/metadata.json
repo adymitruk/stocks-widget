@@ -6,7 +6,7 @@
                 "Name": "Adam Dymitruk"
             }
         ],
-        "Category": "Finance",
+        "Category": "Information",
         "Description": "Shows the current prices of stocks",
         "Icon": "office-chart-line",
         "Id": "org.kde.plasma.stocks",

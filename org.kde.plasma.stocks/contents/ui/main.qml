@@ -1,7 +1,11 @@
 import QtQuick 2.0
-import org.kde.plasma.components 2.0 as PlasmaComponents
+import org.kde.plasma.components 2 as PlasmaComponents
 
 
 PlasmaComponents.Label {
-    text: "Hello, World!"
+    text: if (plasmoid.configuration.exampleConfig) {
+        "Hello, World! true"
+    } else {
+        "Hello, World! false"
+    }
 }
