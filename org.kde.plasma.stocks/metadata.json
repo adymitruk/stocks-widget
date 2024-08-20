@@ -15,6 +15,6 @@
         "Website": "https://github.com/adymitruk/stocks-widget"
     },
     "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-RequiredExtensions": ["http", "https"],
     "KPackageStructure": "Plasma/Applet"
-
 }
